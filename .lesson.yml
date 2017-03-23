@@ -1,0 +1,8 @@
+---
+title: "React Simple Blog"
+type: "challenge"
+description: "Build a simple blog application in React"
+tags: "javascript, react, react-forms, react-router"
+ignore:
+- "node_modules/"
+- "react-simple-blog.md"

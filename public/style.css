@@ -1,0 +1,46 @@
+/*.resume-section {
+  border: 1px solid black;
+  margin-top: 5em;
+}*/
+
+@import url(https://fonts.googleapis.com/css?family=Lora|Raleway|Patua+One|Playfair+Display+SC);
+
+h1, h2, h3, h4, h5, h6 {
+	  font-family: Lora, serif;
+    color: #B645B0  ;
+}
+
+.project {
+  border: 1px solid black;
+  margin-top: 5em;
+  margin-left: 5em;
+  margin-right: 5em;
+}
+
+/*Your style goes here*/
+html {
+    height:100%;
+}
+
+.main-body {
+  margin: 0 15px;
+  text-align: center;
+}
+
+/*.navBar {
+  margin: 30px;
+}
+
+.navButton {
+  margin: 30px 20px;
+  padding: 15px;
+  background-color: aqua;
+  border: 2px solid black;
+  border-radius: 3px;
+}
+
+.tinyButton {
+  background-color: grey;
+  border: 2px solid black;
+  border-radius: 3px;
+}*/
